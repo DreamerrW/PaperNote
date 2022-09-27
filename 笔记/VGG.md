@@ -15,8 +15,10 @@
 池化层有5个，全连接层有三个，前两层是4096个通道，第三层是1000个通道，因为要实现1000个物体的分类。
 所有隐含层都用Relu函数激活。最后一层是softmax层。
 
+>VGG的结构图如下：
+
+<img src="https://github.com/zju318010xxxx/PaperNote/blob/main/images/fig1.PNG" width="50%">
+
 >
-
-
 
 
