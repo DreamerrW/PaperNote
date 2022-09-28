@@ -19,6 +19,14 @@
 
 <img src="https://github.com/zju318010xxxx/PaperNote/blob/main/images/fig1.PNG" width="50%">
 
->
+介绍一下区别：
+
+·A：没啥特别的
+
+A-L
+
+>训练过程：
+
+采用含动量的mini_batch SGD算法
 
 
